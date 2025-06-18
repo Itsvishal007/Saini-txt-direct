@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
+https://github.com/Itsvishal007/Saini-txt-direct/edit/main/README.md
 
 ***Welcome to DRM bot made by @nikhil.saini.khe (Instagram)***
 
